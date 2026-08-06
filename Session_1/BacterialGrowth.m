@@ -25,3 +25,5 @@ maximumOD = max(od);
 % Printing text
 fprintf('Average OD600: %.2f\n', averageOD);
 fprintf('Maximum OD600: %.2f\n', maximumOD);
+
+% disp(averageOD);
