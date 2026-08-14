@@ -39,3 +39,4 @@ codegen/
 *.sbproj.backup
 *.sbproj.bak
 in_class/
+Quiz*
