@@ -5,7 +5,7 @@ gamma = 0.20;
 alpha = 0.02;  % New!
 
 % We want to check the dynamics for different R0 values 
-R0values = [0.8 1.5 3.0]; 
+R0values = [0.8 3.0]; 
 
 % Initial values
 x0 = [990; 10; 0];
